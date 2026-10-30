@@ -1,0 +1,9 @@
+{
+  "leave_policy.md": "employee",
+  "wfh_policy.md": "employee",
+  "attendance_policy.md": "employee",
+  "code_of_conduct.md": "employee",
+  "payroll_benefits.md": "employee",
+  "manager_guidelines.md": "manager",
+  "salary_bands_confidential.md": "hr"
+}

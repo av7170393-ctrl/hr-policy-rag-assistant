@@ -1,0 +1,8 @@
+.env
+storage/chroma/
+storage/chunks.json
+storage/*.db
+__pycache__/
+venv/
+.venv/
+eval/results.md

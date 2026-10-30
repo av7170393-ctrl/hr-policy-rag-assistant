@@ -1,0 +1,17 @@
+# Render blueprint: two web services built from the same Dockerfile
+services:
+  - type: web
+    name: hr-assistant-api
+    runtime: docker
+    envVars:
+      - key: GEMINI_API_KEY
+        sync: false
+      - key: SECRET_KEY
+        generateValue: true
+  - type: web
+    name: hr-assistant-ui
+    runtime: docker
+    dockerCommand: streamlit run ui/streamlit_app.py --server.port $PORT --server.address 0.0.0.0
+    envVars:
+      - key: API_URL
+        sync: false   # paste the public URL of hr-assistant-api

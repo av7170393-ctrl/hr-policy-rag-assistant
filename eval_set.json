@@ -1,0 +1,353 @@
+[
+ {
+  "id": "q01",
+  "type": "in_scope",
+  "role": "employee",
+  "question": "How many casual leaves do I get per year?",
+  "expected_source": "leave_policy.md",
+  "keywords": [
+   "12"
+  ]
+ },
+ {
+  "id": "q02",
+  "type": "in_scope",
+  "role": "employee",
+  "question": "Can casual leave be carried forward?",
+  "expected_source": "leave_policy.md",
+  "keywords": [
+   "forward"
+  ]
+ },
+ {
+  "id": "q03",
+  "type": "in_scope",
+  "role": "employee",
+  "question": "How many sick leaves are there and when is a medical certificate needed?",
+  "expected_source": "leave_policy.md",
+  "keywords": [
+   "10",
+   "2"
+  ]
+ },
+ {
+  "id": "q04",
+  "type": "in_scope",
+  "role": "employee",
+  "question": "How many earned leave days can be carried forward?",
+  "expected_source": "leave_policy.md",
+  "keywords": [
+   "30"
+  ]
+ },
+ {
+  "id": "q05",
+  "type": "in_scope",
+  "role": "employee",
+  "question": "How long is maternity leave?",
+  "expected_source": "leave_policy.md",
+  "keywords": [
+   "26"
+  ]
+ },
+ {
+  "id": "q06",
+  "type": "in_scope",
+  "role": "employee",
+  "question": "How many days of paternity leave do I get?",
+  "expected_source": "leave_policy.md",
+  "keywords": [
+   "10"
+  ]
+ },
+ {
+  "id": "q07",
+  "type": "in_scope",
+  "role": "employee",
+  "question": "How many public holidays does the company give?",
+  "expected_source": "leave_policy.md",
+  "keywords": [
+   "12"
+  ]
+ },
+ {
+  "id": "q08",
+  "type": "in_scope",
+  "role": "employee",
+  "question": "How many days a week can I work from home?",
+  "expected_source": "wfh_policy.md",
+  "keywords": [
+   "2"
+  ]
+ },
+ {
+  "id": "q09",
+  "type": "in_scope",
+  "role": "employee",
+  "question": "What are the core hours?",
+  "expected_source": "wfh_policy.md",
+  "keywords": [
+   "11",
+   "4"
+  ]
+ },
+ {
+  "id": "q10",
+  "type": "in_scope",
+  "role": "employee",
+  "question": "How much is the internet allowance for WFH?",
+  "expected_source": "wfh_policy.md",
+  "keywords": [
+   "1,000"
+  ]
+ },
+ {
+  "id": "q11",
+  "type": "in_scope",
+  "role": "employee",
+  "question": "Can employees on probation work from home?",
+  "expected_source": "wfh_policy.md",
+  "keywords": [
+   "office"
+  ]
+ },
+ {
+  "id": "q12",
+  "type": "in_scope",
+  "role": "employee",
+  "question": "What are the standard working hours?",
+  "expected_source": "attendance_policy.md",
+  "keywords": [
+   "9:30",
+   "6:30"
+  ]
+ },
+ {
+  "id": "q13",
+  "type": "in_scope",
+  "role": "employee",
+  "question": "How many late arrivals are allowed in the grace period?",
+  "expected_source": "attendance_policy.md",
+  "keywords": [
+   "3",
+   "15"
+  ]
+ },
+ {
+  "id": "q14",
+  "type": "in_scope",
+  "role": "employee",
+  "question": "What counts as a half day?",
+  "expected_source": "attendance_policy.md",
+  "keywords": [
+   "4.5"
+  ]
+ },
+ {
+  "id": "q15",
+  "type": "in_scope",
+  "role": "employee",
+  "question": "How do I regularize a missed punch?",
+  "expected_source": "attendance_policy.md",
+  "keywords": [
+   "3"
+  ]
+ },
+ {
+  "id": "q16",
+  "type": "in_scope",
+  "role": "employee",
+  "question": "What do I get if I work on a weekend?",
+  "expected_source": "attendance_policy.md",
+  "keywords": [
+   "compensatory",
+   "30"
+  ]
+ },
+ {
+  "id": "q17",
+  "type": "in_scope",
+  "role": "employee",
+  "question": "What is the policy on sexual harassment?",
+  "expected_source": "code_of_conduct.md",
+  "keywords": [
+   "icc"
+  ]
+ },
+ {
+  "id": "q18",
+  "type": "in_scope",
+  "role": "employee",
+  "question": "Are gifts from clients allowed?",
+  "expected_source": "code_of_conduct.md",
+  "keywords": [
+   "2,000"
+  ]
+ },
+ {
+  "id": "q19",
+  "type": "in_scope",
+  "role": "employee",
+  "question": "What is the dress code on Fridays?",
+  "expected_source": "code_of_conduct.md",
+  "keywords": [
+   "casual"
+  ]
+ },
+ {
+  "id": "q20",
+  "type": "in_scope",
+  "role": "employee",
+  "question": "When is salary credited?",
+  "expected_source": "payroll_benefits.md",
+  "keywords": [
+   "last working day"
+  ]
+ },
+ {
+  "id": "q21",
+  "type": "in_scope",
+  "role": "employee",
+  "question": "How much health insurance coverage do I get?",
+  "expected_source": "payroll_benefits.md",
+  "keywords": [
+   "5 lakh"
+  ]
+ },
+ {
+  "id": "q22",
+  "type": "in_scope",
+  "role": "employee",
+  "question": "What is the PF contribution percentage?",
+  "expected_source": "payroll_benefits.md",
+  "keywords": [
+   "12"
+  ]
+ },
+ {
+  "id": "q23",
+  "type": "in_scope",
+  "role": "employee",
+  "question": "How long is the notice period?",
+  "expected_source": "payroll_benefits.md",
+  "keywords": [
+   "60",
+   "30"
+  ]
+ },
+ {
+  "id": "q24",
+  "type": "in_scope",
+  "role": "employee",
+  "question": "How many months is probation?",
+  "expected_source": "payroll_benefits.md",
+  "keywords": [
+   "3"
+  ]
+ },
+ {
+  "id": "q25",
+  "type": "in_scope",
+  "role": "employee",
+  "question": "When are performance reviews held?",
+  "expected_source": "payroll_benefits.md",
+  "keywords": [
+   "april",
+   "october"
+  ]
+ },
+ {
+  "id": "q26",
+  "type": "in_scope",
+  "role": "employee",
+  "question": "Mujhe saal mein kitni casual chutti milti hai?",
+  "question_en": "How many casual leaves do I get per year?",
+  "expected_source": "leave_policy.md",
+  "keywords": [
+   "12"
+  ]
+ },
+ {
+  "id": "q27",
+  "type": "in_scope",
+  "role": "employee",
+  "question": "Ghar se kaam kitne din kar sakte hain?",
+  "question_en": "How many days can I work from home?",
+  "expected_source": "wfh_policy.md",
+  "keywords": [
+   "2"
+  ]
+ },
+ {
+  "id": "q28",
+  "type": "in_scope",
+  "role": "employee",
+  "question": "नोटिस पीरियड कितना है?",
+  "question_en": "What is the notice period?",
+  "expected_source": "payroll_benefits.md",
+  "keywords": [
+   "60"
+  ]
+ },
+ {
+  "id": "q29",
+  "type": "in_scope",
+  "role": "manager",
+  "question": "Within how many days should a manager approve a leave request?",
+  "expected_source": "manager_guidelines.md",
+  "keywords": [
+   "2"
+  ]
+ },
+ {
+  "id": "q30",
+  "type": "in_scope",
+  "role": "hr",
+  "question": "What is the salary band for level L2?",
+  "expected_source": "salary_bands_confidential.md",
+  "keywords": [
+   "7",
+   "12"
+  ]
+ },
+ {
+  "id": "q31",
+  "type": "restricted",
+  "role": "employee",
+  "question": "What is the salary band for level L2?",
+  "expected_source": null,
+  "keywords": []
+ },
+ {
+  "id": "q32",
+  "type": "out_of_scope",
+  "role": "employee",
+  "question": "What is the capital of France?",
+  "expected_source": null,
+  "keywords": []
+ },
+ {
+  "id": "q33",
+  "type": "out_of_scope",
+  "role": "employee",
+  "question": "Does the company provide a company car?",
+  "expected_source": null,
+  "keywords": []
+ },
+ {
+  "id": "q34",
+  "type": "out_of_scope",
+  "role": "employee",
+  "question": "What is the stock price of Nexora?",
+  "expected_source": null,
+  "keywords": []
+ },
+ {
+  "id": "q35",
+  "type": "out_of_scope",
+  "role": "employee",
+  "question": "Can I bring my pet dog to the office?",
+  "expected_source": null,
+  "keywords": []
+ }
+]
